@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.514,G:\Documents\Embarcadero\Studio\Projects\JACOBI.PAS=G:\Documents\Embarcadero\Studio\Projects\MyJacobi.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.377,=G:\Documents\Embarcadero\Studio\Projects\JACOBI.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.180,G:\Documents\Embarcadero\Studio\Projects\JACOBI.PAS=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.658,=G:\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,=G:\Documents\Embarcadero\Studio\Projects\IntervalArithmetic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,=G:\Documents\Embarcadero\Studio\Projects\IntervalArithmetic32and64.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,G:\Documents\Embarcadero\Studio\Projects\IntervalArithmetic32and64.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,=G:\Documents\Embarcadero\Studio\Projects\IntervalArithmetic32and64.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,=G:\Documents\Embarcadero\Studio\Projects\JACOBI.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,G:\Documents\Embarcadero\Studio\Projects\jacobi.dproj=G:\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
